@@ -1,7 +1,7 @@
 Opa, bão ? 👋
 
 - 🔭 Mirando em ser um devWeb back-end Java
-- 📙 Estudando atualmemte html/css e Javascript
+- 📙 Estudando atualmente html/css e Javascript
 - 💬 Contato: davifernadesr@gmail.com 
 
 <div >

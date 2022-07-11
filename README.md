@@ -3,6 +3,7 @@ Opa, bão ? 👋
 - 🔭 Mirando em ser um devWeb back-end Java
 - 📙 Estudando atualmente html/css e Javascript
 - 💬 Contato: davifernadesr@gmail.com 
+- Meu portfólio:  https://davifernandes01.github.io/portfolio-daviFernandes/
 
 <div >
   <a href="https://github.com/DaviFernandes01">

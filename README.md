@@ -3,7 +3,7 @@ Opa, bão ? 👋
 - Formação: Projeto-One(Oracle next education), parceria entre Oracle e Alura para a formação de novos desenvolvedores
 - 🔭 Mirando em ser um devWeb back-end Java
 - 📙 Estudando atualmente java
-- 📙 Conhecimentos em Html,CSS e Javascript
+- 📙 Conhecimentos em Html, CSS e Javascript
 - 💬 Contato: davifernadesr@gmail.com 
 - Meu portfólio:  https://davifernandes01.github.io/portfolio-daviFernandes/
 

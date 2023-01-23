@@ -1,6 +1,6 @@
 Opa, bão ? 👋
 
-- Formação: Projeto-One(Oracle next education), parceria entre Oracle e Alura para a formação de novos desenvolvedores
+- Formação: atualmente fazendo ciẽncias da computação, Projeto-One(Oracle next education), parceria entre Oracle e Alura para a formação de novos desenvolvedores
 - 📙 Estudando atualmente Go 
 - 📙 Conhecimentos em Html, CSS , Javascript e java (spring boot, jpa/hibernate etc..)
 - 💬 Contato: davifernadesr@gmail.com 

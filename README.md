@@ -1,10 +1,11 @@
 Opa, bão ? 👋
 
-- Formação: atualmente fazendo ciências da computação, Projeto-One(Oracle next education), parceria entre Oracle e Alura para a formação de novos desenvolvedores
-- 📙 Estudando atualmente Go 
-- 📙 Conhecimentos em Html, CSS , Javascript e java (spring boot, jpa/hibernate etc..)
+ - 📙 Formação: atualmente fazendo ciências da computação, Projeto-One(Oracle next education): parceria entre Oracle e Alura para a formação de novos desenvolvedores, DIO e Udemy
+- 📙 Estudando atualmente sobre AWS e seus serviços
+- 📙 Foco em Cloud Computing e DevOps
+- 📙 conhecimentos em Linux
+- 📙 Conhecimentos em programação web(html, css, js, spring boot, etc)
 - 💬 Contato: davifernadesr@gmail.com 
-- Meu portfólio:  https://davifernandes01.github.io/portfolio-daviFernandes/
 
 <div >
   <a href="https://github.com/DaviFernandes01">
@@ -14,14 +15,10 @@ Opa, bão ? 👋
   
   
   <div style="display: inline_block"><br>
-  <img align="center"  height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
-  <img align="center"  height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
-  <img align="center"  height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
-   <img align="center"  height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>-
-    <img align="center"  height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>-
-     <img align="center"  height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -
-    <img align= "center"  height= "150" width = "50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-      
+  <img align="center"  height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> -
+  <img align="center"  height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">-
+  <img align="center"  height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">-
+  
          
 
 </div>

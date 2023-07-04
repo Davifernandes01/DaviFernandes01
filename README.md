@@ -1,10 +1,9 @@
 Opa, bão ? 👋
 
  - 📙 Formação: atualmente fazendo ciências da computação, Projeto-One(Oracle next education): parceria entre Oracle e Alura para a formação de novos desenvolvedores, DIO e Udemy
-- 📙 Estudando atualmente sobre AWS e seus serviços
-- 📙 Foco em Cloud Computing e DevOps
+- 📙 Estudando atualmente Sql server
+- 📙 Foco em Engenharia de dados
 - 📙 conhecimentos em Linux
-- 📙 Conhecimentos em programação web(html, css, js, spring boot, etc)
 - 💬 Contato: davifernadesr@gmail.com 
 
 <div >

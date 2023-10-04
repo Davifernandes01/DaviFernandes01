@@ -1,8 +1,8 @@
 Opa, bão ? 👋
 
  - 📙 Formação: atualmente fazendo ciências da computação, DIO e Udemy
-- 📙 Estudando atualmente c#
-- 📙 Foco em Back-end
+- 📙 Estudando atualmente SQL SERVER
+- 📙 Foco em banco de dados
 - 📙 conhecimentos em Linux
 - 💬 Contato: davifernadesr@gmail.com 
 
